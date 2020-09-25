@@ -1,0 +1,76 @@
+!!*cursorColor: #93a1a1
+!!*pointerColorBackground: #586e75
+!!*pointerColorForeground: #93a1a1
+
+
+! Dracula Xresources palette
+*.foreground: #F8F8F2
+*.background: #282A36
+
+*.color0:     #000000
+*.color8:     #4D4D4D
+
+*.color1:     #FF5555
+*.color9:     #FF6E67
+
+*.color2:     #50FA7B
+*.color10:    #5AF78E
+
+*.color3:     #F1FA8C
+*.color11:    #F4F99D
+
+*.color4:     #BD93F9
+*.color12:    #CAA9FA
+
+*.color5:     #FF79C6
+*.color13:    #FF92D0
+
+*.color6:     #8BE9FD
+*.color14:    #9AEDFE
+
+*.color7:     #BFBFBF
+*.color15:    #E6E6E6
+
+
+
+URxvt.depth: 32
+!! [opacity after applying compton]#color in hex
+URxvt.background: [95]#282A36 
+
+
+!!DejaVu Sans
+URxvt.font: xft:Code New Roman:pixelsize=16:antialias=true:hinting=true
+URxvt.boldFont: xft:Code New Roman:bold:pixelsize=16:antialias=true:hinting=true
+URxvt.italicFont: xft:Code New Roman:italic:pixelsize=16:antialias=true:hinting=true
+URxvt.boldItalicFont: xft:Code New Roman:bold:italic:pixelsize=16:antialias=true:hinting=true
+
+
+!!  URxvt.font: xft:Dejavu Sans Mono for Powerline:pixelsize=16:antialias=true:hinting=true
+!!  URxvt.boldFont: xft:DejaVu Sans Mono for Powerline:bold:pixelsize=16:antialias=true:hinting=true
+!!  URxvt.italicFont: xft:DejaVu Sans Mono for Powerline:italic:pixelsize=16:antialias=true:hinting=true
+!!  URxvt.boldItalicFont: xft:DejaVu Sans Mono for Powerline:bold:italic:pixelsize=16:antialias=true
+!!  URxvt.letterSpace: -1
+
+URxvt.scrollBar:	false
+URxvt.cursorColor:	white
+
+!! Extensions
+URxvt.perl-ext-common:	default,matcher,resize-font,url-select,keyboard-select
+URxvt.colorUL:		#4682B4
+!! url-select
+URxvt.keysym.M-u:	perl:url-select:select_next
+URxvt.url-select.launcher: linkhandler
+URxvt.url-select.underline: true
+!! keyboard-select:
+URxvt.keysym.M-Escape: perl:keyboard-select:activate
+
+!! Matcher
+URxvt.url-launcher:	/usr/bin/brave 
+URxvt.matcher.button:	1
+
+!! yay -S urxvt-resize-font-git, it doesnt comes with perl default extensions
+URxvt.resize-font.smaller: C-j
+URxvt.resize-font.bigger: C-k
+URxvt.resize-font.reset: C-equal
+URxvt.resize-font.show: C-question
+
