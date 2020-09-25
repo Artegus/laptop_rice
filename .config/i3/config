@@ -58,12 +58,12 @@ exec compton
 #exec_always picom --config ~/.config/mypicom.conf
 
 #gaps
-gaps inner 20
-gaps outer 10
+gaps inner 10
+gaps outer 0
 #gaps mode is actually hot 
 set $mode_gaps Gaps: (o) outer, (i) inner
-set $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)
-set $mode_gaps_inner Inner Gaps: +|-|0 (local), Shift + +|-|0 (global)
+set $mode_gaps_outer Outer Gaps: k|j|l (local), Shift + k|j|l (global)
+set $mode_gaps_inner Inner Gaps: k|j|l (local), Shift + k|j|l (global)
 bindsym $mod+Shift+g mode "$mode_gaps"
 
 mode "$mode_gaps" {
@@ -76,11 +76,11 @@ mode "$mode_gaps" {
 mode "$mode_gaps_inner" {
         bindsym k gaps inner current plus 5
         bindsym j gaps inner current minus 5
-        bindsym 0     gaps inner current set 0
+        bindsym l     gaps inner current set 0
 
         bindsym Shift+k gaps inner all plus 5
         bindsym Shift+j gaps inner all minus 5
-        bindsym Shift+0     gaps inner all set 0
+        bindsym Shift+l     gaps inner all set 0
 
         bindsym Return mode "default"
         bindsym Escape mode "default"
@@ -88,11 +88,11 @@ mode "$mode_gaps_inner" {
 mode "$mode_gaps_outer" {
         bindsym k gaps outer current plus 5
         bindsym j gaps outer current minus 5
-        bindsym 0     gaps outer current set 0
+        bindsym l     gaps outer current set 0
 
         bindsym Shift+k gaps outer all plus 5
         bindsym Shift+j gaps outer all minus 5
-        bindsym Shift+0     gaps outer all set 0
+        bindsym Shift+l     gaps outer all set 0
 
         bindsym Return mode "default"
         bindsym Escape mode "default"
@@ -321,7 +321,8 @@ bindsym XF86MonBrightnessUp exec ~/.config/i3/brightness.sh + eDP-1
 bindsym XF86MonBrightnessDown exec ~/.config/i3/brightness.sh - eDP-1
 
 #to control audio use pulseaudio and command start-pulseaudio-x11, dont know
-#if it executes at every reboot or i need to exectue it in this script
+#if it executes at every reboot or i need to exectue it in this script.
+#use: pulseaudio --check && pulseaudio -D && pavucontrol to control the sound inputo and output (for headsets)
 
 # set layout to spanish
 exec_always setxkbmap es

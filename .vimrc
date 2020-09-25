@@ -20,7 +20,6 @@ highlight LineNr ctermfg=8
 set numberwidth=4
 
 
-
 syntax enable
 colorscheme dracula
 highlight Normal ctermbg=NONE

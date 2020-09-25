@@ -39,17 +39,16 @@ URxvt.background: [95]#282A36
 
 
 !!DejaVu Sans
-URxvt.font: xft:Code New Roman:pixelsize=16:antialias=true:hinting=true
-URxvt.boldFont: xft:Code New Roman:bold:pixelsize=16:antialias=true:hinting=true
-URxvt.italicFont: xft:Code New Roman:italic:pixelsize=16:antialias=true:hinting=true
-URxvt.boldItalicFont: xft:Code New Roman:bold:italic:pixelsize=16:antialias=true:hinting=true
+!!URxvt.font: xft:Code New Roman:pixelsize=16:antialias=true:hinting=true
+!!URxvt.boldFont: xft:Code New Roman:bold:pixelsize=16:antialias=true:hinting=true
+!!URxvt.italicFont: xft:Code New Roman:italic:pixelsize=16:antialias=true:hinting=true
+!!URxvt.boldItalicFont: xft:Code New Roman:bold:italic:pixelsize=16:antialias=true:hinting=true
 
-
-!!  URxvt.font: xft:Dejavu Sans Mono for Powerline:pixelsize=16:antialias=true:hinting=true
-!!  URxvt.boldFont: xft:DejaVu Sans Mono for Powerline:bold:pixelsize=16:antialias=true:hinting=true
-!!  URxvt.italicFont: xft:DejaVu Sans Mono for Powerline:italic:pixelsize=16:antialias=true:hinting=true
-!!  URxvt.boldItalicFont: xft:DejaVu Sans Mono for Powerline:bold:italic:pixelsize=16:antialias=true
-!!  URxvt.letterSpace: -1
+  URxvt.font: xft:Dejavu Sans Mono for Powerline:pixelsize=16:antialias=true:hinting=true
+  URxvt.boldFont: xft:DejaVu Sans Mono for Powerline:bold:pixelsize=16:antialias=true:hinting=true
+  URxvt.italicFont: xft:DejaVu Sans Mono for Powerline:italic:pixelsize=16:antialias=true:hinting=true
+  URxvt.boldItalicFont: xft:DejaVu Sans Mono for Powerline:bold:italic:pixelsize=16:antialias=true
+  URxvt.letterSpace: -1
 
 URxvt.scrollBar:	false
 URxvt.cursorColor:	white
