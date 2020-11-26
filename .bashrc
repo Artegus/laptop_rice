@@ -83,6 +83,8 @@ if ${use_color} ; then
 	alias fgrep='fgrep --colour=auto'
 	alias ur='urxvt &'
 	alias q='exit'
+	alias osudriv='sudo Linux\ Beta\ Driver\(20191212\)/Linux_Pentablet_V1.2.11/Pentablet_Driver'
+	alias cmatrix='cmatrix -C blue'
 
 else
 	if [[ ${EUID} == 0 ]] ; then
@@ -100,7 +102,7 @@ alias df='df -h'                          # human-readable sizes
 alias free='free -m'                      # show sizes in MB
 alias np='nano -w PKGBUILD'
 alias more=less
-alias cmatrix='unimatrix -n -s 96 -l o -c blue'
+alias nv='nvim'
 
 xhost +local:root > /dev/null 2>&1
 
@@ -149,8 +151,8 @@ BLUE="\e[94m"
 
 # LOGIN SCREEN MESSAGE 
 printf "${BLUE}"
-echo "                                                      Arch is kinda hot"
-figlet -f rebel -c "DENNIS" 
+echo
+figlet -f rebel -c "=ARCH=" 
 
 
 
