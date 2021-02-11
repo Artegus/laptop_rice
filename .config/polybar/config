@@ -35,8 +35,8 @@ bar-fill-icon = ﭳ
 [color]
 fg = #f8f8f2
 text-fg = ${self.fg}
-bg = #00282a36
-base-bg    = ${self.bg:#dd282a36}
+bg = #282a36
+base-bg    = ${self.bg:#BB282a36}
 text-bg = ${self.bg}
 selection = #44475a
 comment = #6272a4
@@ -45,7 +45,7 @@ module-bg  = ${self.comment}
 cyan  = #8be9fd
 green  = #50fa7b
 orange = #ffb86c
-pink  = #ff79c6
+pink  = #ffffff
 purple  = #bd93f9
 red  = #ff5555
 white  = #f8f8f2
@@ -59,7 +59,7 @@ yellow  = #f1fa8c
 [bar/base]
 monitor = ${env:MONITOR}
 width = 100%
-height = 22
+height = 21
 fixed-center = true
 
 background = ${color.base-bg}
