@@ -12,6 +12,8 @@ Plug 'uiiaoo/java-syntax.vim'
 "Plug 'godlygeek/tabular',        " For aligning    
 "Plug 'mattia72/vim-delphi' 
 Plug 'cpiger/NeoDebug'
+Plug 'Shougo/deoplete.nvim'
+Plug 'jiangmiao/auto-pairs'
 call plug#end()
 
 set number relativenumber
@@ -25,12 +27,12 @@ highlight LineNr ctermfg=8
 " spacing
 set smartindent
 set numberwidth=4
-autocmd Filetype pascal setlocal tabstop=4
+autocmd Filetype pascal setlocal tabstop=2
+autocmd Filetype pascal setlocal shiftwidth=0
 autocmd Filetype tex setlocal tabstop=4
 autocmd Filetype tex setlocal shiftwidth=0
-autocmd Filetype pascal setlocal shiftwidth=0
-
-
+autocmd Filetype javascript setlocal tabstop=4
+autocmd Filetype javascript setlocal shiftwidth=0
 
 syntax enable
 colorscheme dracula

@@ -1,0 +1,759 @@
+# Vim 8.2 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/bar
+
+# Última cadena de sustitución:
+$
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q!
+|2,0,1612817461,,"q!"
+:VimtexCompile
+|2,0,1612817459,,"VimtexCompile"
+:visual
+|2,0,1612817456,,"visual"
+:w
+|2,0,1606302777,,"w"
+:wq
+|2,0,1606218754,,"wq"
+:q
+|2,0,1604450950,,"q"
+:Goyo
+|2,0,1601398649,,"Goyo"
+:W
+|2,0,1601030982,,"W"
+:q1
+|2,0,1601025037,,"q1"
+:qjk
+|2,0,1601023574,,"qjk"
+:PlugInstall
+|2,0,1601022826,,"PlugInstall"
+:w!
+|2,0,1600936147,,"w!"
+:wq!
+|2,0,1600932771,,"wq!"
+:s
+|2,0,1596278455,,"s"
+:goyo
+|2,0,1596276978,,"goyo"
+:colorscheme dracula 
+|2,0,1596276746,,"colorscheme dracula "
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/bar
+|2,1,1606217489,47,"bar"
+?/discord
+|2,1,1606217289,47,"discord"
+?/alias
+|2,1,1601724045,47,"alias"
+?/error
+|2,1,1601628358,47,"error"
+?/photo
+|2,1,1601033181,47,"photo"
+?/PS1
+|2,1,1601030131,47,"PS1"
+?/source
+|2,1,1601029178,47,"source"
+?/title
+|2,1,1601029054,47,"title"
+?/colors
+|2,1,1601028875,47,"colors"
+?/PS!
+|2,1,1601029604,47,"PS!"
+?/color
+|2,1,1601028351,47,"color"
+?/--backend
+|2,1,1601028056,47,"--backend"
+?/image_back
+|2,1,1601028044,47,"image_back"
+? @$
+|2,1,1601026318,,"@$"
+?/gaps
+|2,1,1601022708,47,"gaps"
+?/resi
+|2,1,1601022637,47,"resi"
+?/bar.sh
+|2,1,1601015546,47,"bar.sh"
+?/resize
+|2,1,1601014622,47,"resize"
+?/us
+|2,1,1600931097,47,"us"
+?/eu
+|2,1,1600931095,47,"eu"
+?/xrdb
+|2,1,1600928803,47,"xrdb"
+?/.Xresources
+|2,1,1600928796,47,".Xresources"
+?/picom
+|2,1,1596278537,47,"picom"
+?/compton
+|2,1,1596278536,47,"compton"
+?/h
+|2,1,1596277923,47,"h"
+?/rofi
+|2,1,1596277553,47,"rofi"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""0	LINE	0
+		writeln(a[0])
+|3,1,0,1,1,0,1606302768,"	writeln(a[0])"
+"1	LINE	0
+	echo "                                                      Arch is kinda hot"
+|3,0,1,1,1,0,1606218547,"echo \"                                                      Arch is kinda hot\""
+"2	BLOCK	1
+	C9
+	C9
+	C9
+	C9
+	C9
+|3,0,2,2,5,1,1606217531,"C9","C9","C9","C9","C9"
+"3	BLOCK	1
+	C9
+	C9
+	C9
+	C9
+	C9
+|3,0,3,2,5,1,1606217506,"C9","C9","C9","C9","C9"
+"4	CHAR	0
+	title
+	    info 
+|3,0,4,0,2,0,1601029136,"title","    info "
+"5	BLOCK	1
+	!!
+	!!
+	!!
+	!!
+	!!
+|3,0,5,2,5,1,1601027511,"!!","!!","!!","!!","!!"
+"6	BLOCK	1
+	!!
+	!!
+	!!
+	!!
+|3,0,6,2,4,1,1601027490,"!!","!!","!!","!!"
+"7	BLOCK	1
+	!!
+	!!
+	!!
+	!!
+	!!
+|3,0,7,2,5,1,1601026303,"!!","!!","!!","!!","!!"
+"8	BLOCK	1
+	!!
+	!!
+	!!
+	!!
+|3,0,8,2,4,1,1601025053,"!!","!!","!!","!!"
+"9	LINE	0
+	#define font1         Inconsolata LGC
+|3,0,9,1,1,0,1601025049,"#define font1         Inconsolata LGC"
+"s	CHAR	0
+	
+	
+|3,0,28,0,2,0,1600928940,"",""
+"-	CHAR	0
+	=
+|3,0,36,0,1,0,1606218699,"="
+
+# Marcas en el archivo:
+'0  1  0  ~/uni/etica/apuntes.tex
+|4,48,1,0,1612817461,"~/uni/etica/apuntes.tex"
+'1  4  14  ~/test.pas
+|4,49,4,14,1606302783,"~/test.pas"
+'2  155  25  ~/.bashrc
+|4,50,155,25,1606218754,"~/.bashrc"
+'3  301  23  ~/.config/i3/config
+|4,51,301,23,1606217617,"~/.config/i3/config"
+'4  336  0  ~/.config/i3/config
+|4,52,336,0,1606217363,"~/.config/i3/config"
+'5  336  0  ~/.config/i3/config
+|4,53,336,0,1606217363,"~/.config/i3/config"
+'6  1  0  /etc/adjtime
+|4,54,1,0,1606217003,"/etc/adjtime"
+'7  11  0  /etc/ntp.conf
+|4,55,11,0,1604450950,"/etc/ntp.conf"
+'8  86  29  ~/.bashrc
+|4,56,86,29,1601724127,"~/.bashrc"
+'9  86  29  ~/.bashrc
+|4,57,86,29,1601724127,"~/.bashrc"
+
+# Lista de saltos (el más reciente va primero):
+-'  1  0  ~/uni/etica/apuntes.tex
+|4,39,1,0,1612817461,"~/uni/etica/apuntes.tex"
+-'  4  14  ~/test.pas
+|4,39,4,14,1606302783,"~/test.pas"
+-'  4  14  ~/test.pas
+|4,39,4,14,1606302783,"~/test.pas"
+-'  1  0  ~/test.pas
+|4,39,1,0,1606302649,"~/test.pas"
+-'  1  0  ~/test.pas
+|4,39,1,0,1606302649,"~/test.pas"
+-'  155  25  ~/.bashrc
+|4,39,155,25,1606218754,"~/.bashrc"
+-'  155  25  ~/.bashrc
+|4,39,155,25,1606218754,"~/.bashrc"
+-'  155  25  ~/.bashrc
+|4,39,155,25,1606218754,"~/.bashrc"
+-'  155  25  ~/.bashrc
+|4,39,155,25,1606218754,"~/.bashrc"
+-'  111  0  ~/.bashrc
+|4,39,111,0,1606218586,"~/.bashrc"
+-'  111  0  ~/.bashrc
+|4,39,111,0,1606218586,"~/.bashrc"
+-'  111  0  ~/.bashrc
+|4,39,111,0,1606218586,"~/.bashrc"
+-'  111  0  ~/.bashrc
+|4,39,111,0,1606218586,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1606218544,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1606218544,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1606218544,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1606218544,"~/.bashrc"
+-'  301  23  ~/.config/i3/config
+|4,39,301,23,1606217617,"~/.config/i3/config"
+-'  301  23  ~/.config/i3/config
+|4,39,301,23,1606217617,"~/.config/i3/config"
+-'  301  23  ~/.config/i3/config
+|4,39,301,23,1606217617,"~/.config/i3/config"
+-'  301  23  ~/.config/i3/config
+|4,39,301,23,1606217617,"~/.config/i3/config"
+-'  301  23  ~/.config/i3/config
+|4,39,301,23,1606217617,"~/.config/i3/config"
+-'  301  23  ~/.config/i3/config
+|4,39,301,23,1606217617,"~/.config/i3/config"
+-'  301  23  ~/.config/i3/config
+|4,39,301,23,1606217617,"~/.config/i3/config"
+-'  301  23  ~/.config/i3/config
+|4,39,301,23,1606217617,"~/.config/i3/config"
+-'  299  19  ~/.config/i3/config
+|4,39,299,19,1606217547,"~/.config/i3/config"
+-'  299  19  ~/.config/i3/config
+|4,39,299,19,1606217547,"~/.config/i3/config"
+-'  299  19  ~/.config/i3/config
+|4,39,299,19,1606217547,"~/.config/i3/config"
+-'  299  19  ~/.config/i3/config
+|4,39,299,19,1606217547,"~/.config/i3/config"
+-'  299  19  ~/.config/i3/config
+|4,39,299,19,1606217547,"~/.config/i3/config"
+-'  299  19  ~/.config/i3/config
+|4,39,299,19,1606217547,"~/.config/i3/config"
+-'  299  19  ~/.config/i3/config
+|4,39,299,19,1606217547,"~/.config/i3/config"
+-'  299  19  ~/.config/i3/config
+|4,39,299,19,1606217547,"~/.config/i3/config"
+-'  305  45  ~/.config/i3/config
+|4,39,305,45,1606217536,"~/.config/i3/config"
+-'  305  45  ~/.config/i3/config
+|4,39,305,45,1606217536,"~/.config/i3/config"
+-'  305  45  ~/.config/i3/config
+|4,39,305,45,1606217536,"~/.config/i3/config"
+-'  305  45  ~/.config/i3/config
+|4,39,305,45,1606217536,"~/.config/i3/config"
+-'  305  45  ~/.config/i3/config
+|4,39,305,45,1606217536,"~/.config/i3/config"
+-'  305  45  ~/.config/i3/config
+|4,39,305,45,1606217536,"~/.config/i3/config"
+-'  305  45  ~/.config/i3/config
+|4,39,305,45,1606217536,"~/.config/i3/config"
+-'  305  45  ~/.config/i3/config
+|4,39,305,45,1606217536,"~/.config/i3/config"
+-'  235  0  ~/.config/i3/config
+|4,39,235,0,1606217492,"~/.config/i3/config"
+-'  235  0  ~/.config/i3/config
+|4,39,235,0,1606217492,"~/.config/i3/config"
+-'  235  0  ~/.config/i3/config
+|4,39,235,0,1606217492,"~/.config/i3/config"
+-'  235  0  ~/.config/i3/config
+|4,39,235,0,1606217492,"~/.config/i3/config"
+-'  235  0  ~/.config/i3/config
+|4,39,235,0,1606217492,"~/.config/i3/config"
+-'  235  0  ~/.config/i3/config
+|4,39,235,0,1606217492,"~/.config/i3/config"
+-'  235  0  ~/.config/i3/config
+|4,39,235,0,1606217492,"~/.config/i3/config"
+-'  235  0  ~/.config/i3/config
+|4,39,235,0,1606217492,"~/.config/i3/config"
+-'  15  17  ~/.config/i3/config
+|4,39,15,17,1606217490,"~/.config/i3/config"
+-'  14  51  ~/.config/i3/config
+|4,39,14,51,1606217490,"~/.config/i3/config"
+-'  15  17  ~/.config/i3/config
+|4,39,15,17,1606217490,"~/.config/i3/config"
+-'  14  51  ~/.config/i3/config
+|4,39,14,51,1606217490,"~/.config/i3/config"
+-'  15  17  ~/.config/i3/config
+|4,39,15,17,1606217490,"~/.config/i3/config"
+-'  14  51  ~/.config/i3/config
+|4,39,14,51,1606217490,"~/.config/i3/config"
+-'  15  17  ~/.config/i3/config
+|4,39,15,17,1606217490,"~/.config/i3/config"
+-'  14  51  ~/.config/i3/config
+|4,39,14,51,1606217490,"~/.config/i3/config"
+-'  15  17  ~/.config/i3/config
+|4,39,15,17,1606217490,"~/.config/i3/config"
+-'  14  51  ~/.config/i3/config
+|4,39,14,51,1606217490,"~/.config/i3/config"
+-'  15  17  ~/.config/i3/config
+|4,39,15,17,1606217490,"~/.config/i3/config"
+-'  14  51  ~/.config/i3/config
+|4,39,14,51,1606217490,"~/.config/i3/config"
+-'  15  17  ~/.config/i3/config
+|4,39,15,17,1606217490,"~/.config/i3/config"
+-'  14  51  ~/.config/i3/config
+|4,39,14,51,1606217490,"~/.config/i3/config"
+-'  15  17  ~/.config/i3/config
+|4,39,15,17,1606217490,"~/.config/i3/config"
+-'  14  51  ~/.config/i3/config
+|4,39,14,51,1606217490,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1606217489,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1606217489,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1606217489,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1606217489,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1606217489,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1606217489,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1606217489,"~/.config/i3/config"
+-'  1  0  ~/.config/i3/config
+|4,39,1,0,1606217489,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  336  0  ~/.config/i3/config
+|4,39,336,0,1606217363,"~/.config/i3/config"
+-'  107  20  ~/.config/i3/config
+|4,39,107,20,1606217292,"~/.config/i3/config"
+-'  107  20  ~/.config/i3/config
+|4,39,107,20,1606217292,"~/.config/i3/config"
+-'  107  20  ~/.config/i3/config
+|4,39,107,20,1606217292,"~/.config/i3/config"
+-'  107  20  ~/.config/i3/config
+|4,39,107,20,1606217292,"~/.config/i3/config"
+-'  107  20  ~/.config/i3/config
+|4,39,107,20,1606217292,"~/.config/i3/config"
+-'  107  20  ~/.config/i3/config
+|4,39,107,20,1606217292,"~/.config/i3/config"
+-'  107  20  ~/.config/i3/config
+|4,39,107,20,1606217292,"~/.config/i3/config"
+-'  107  20  ~/.config/i3/config
+|4,39,107,20,1606217292,"~/.config/i3/config"
+-'  107  20  ~/.config/i3/config
+|4,39,107,20,1606217292,"~/.config/i3/config"
+-'  107  20  ~/.config/i3/config
+|4,39,107,20,1606217292,"~/.config/i3/config"
+-'  107  20  ~/.config/i3/config
+|4,39,107,20,1606217292,"~/.config/i3/config"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/uni/etica/apuntes.tex
+	*	1612817459	0
+	"	1	0
+
+> ~/test.pas
+	*	1606302781	0
+	"	4	14
+	^	4	15
+	.	4	14
+	+	6	3
+	+	2	22
+	+	4	14
+	+	6	3
+	+	5	11
+	+	4	14
+
+> ~/.bashrc
+	*	1606218752	0
+	"	155	25
+	^	155	26
+	.	155	25
+	+	155	60
+	+	155	0
+	+	155	64
+	+	104	46
+	+	75	0
+	+	77	0
+	+	75	0
+	+	77	76
+	+	77	45
+	+	77	0
+	+	75	7
+	+	77	0
+	+	78	0
+	+	77	0
+	+	77	59
+	+	105	67
+	+	86	29
+	+	155	20
+	+	156	0
+	+	155	22
+	+	111	136
+	+	155	20
+	+	154	3
+	+	155	25
+
+> ~/.config/i3/config
+	*	1606217616	0
+	"	301	23
+	^	301	23
+	.	301	0
+	+	287	33
+	+	287	117
+	+	282	0
+	+	282	73
+	+	278	0
+	+	280	0
+	+	278	0
+	+	282	45
+	+	61	0
+	+	82	13
+	+	83	13
+	+	84	13
+	+	85	13
+	+	84	15
+	+	85	14
+	+	84	13
+	+	94	19
+	+	95	19
+	+	96	19
+	+	97	20
+	+	106	13
+	+	55	0
+	+	54	23
+	+	332	0
+	+	329	0
+	+	327	23
+	+	328	23
+	+	319	0
+	+	319	26
+	+	322	0
+	+	319	35
+	+	320	9
+	+	322	0
+	+	320	58
+	+	322	0
+	+	320	44
+	+	321	62
+	+	319	76
+	+	323	76
+	+	324	71
+	+	325	109
+	+	62	11
+	+	61	12
+	+	65	33
+	+	66	35
+	+	65	56
+	+	66	58
+	+	65	37
+	+	66	60
+	+	65	60
+	+	79	16
+	+	83	22
+	+	91	16
+	+	95	22
+	+	191	11
+	+	192	12
+	+	190	11
+	+	187	11
+	+	184	11
+	+	183	11
+	+	305	0
+	+	299	0
+	+	301	0
+	m	62	11
+	t	98	0
+
+> /etc/adjtime
+	*	1606217001	0
+	"	1	0
+
+> /etc/ntp.conf
+	*	1604450949	0
+	"	11	0
+
+> ~/.config/i3/bar.sh
+	*	1601629014	0
+	"	3	0
+
+> ~/.config/Microsoft/Microsoft Teams/logs.txt
+	*	1601628390	0
+	"	367	32
+	^	6395	0
+	.	6394	179
+	+	6394	179
+
+> ~/.vimrc
+	*	1601405214	0
+	"	17	0
+	.	57	0
+	+	56	0
+	+	80	15
+	+	69	30
+	+	70	0
+	+	69	0
+	+	12	0
+	+	60	0
+	+	57	0
+	k	80	17
+
+> /etc/X11/xorg.conf.d/.vimrc
+	*	1601405191	0
+	"	1	0
+
+> /etc/X11/xorg.conf.d/.vimr
+	*	1601405186	0
+	"	1	0
+
+> /etc/X11/xorg.conf.d/50-synaptics.conf
+	*	1601397440	0
+	"	18	1
+
+> ~/.Xresources
+	*	1601033677	0
+	"	75	0
+	^	42	2
+	.	43	0
+	+	28	0
+	+	29	19
+	+	41	0
+	+	42	73
+	+	42	28
+	+	42	73
+	+	42	0
+	+	42	104
+	+	42	73
+	+	42	0
+	+	42	73
+	+	42	105
+	+	42	0
+	+	46	0
+	+	54	0
+	+	46	0
+	+	51	0
+	+	46	0
+	+	43	39
+	+	44	42
+	+	45	52
+	+	42	1
+	+	43	1
+	+	44	1
+	+	45	1
+	+	42	0
+	+	43	0
+	+	52	0
+	+	51	0
+	+	46	0
+	+	42	1
+	+	43	1
+	+	44	1
+	+	45	1
+	+	50	0
+	+	46	1
+	+	47	0
+	+	41	0
+	+	42	1
+	+	43	0
+	+	46	0
+	+	41	1
+	+	46	0
+	+	47	0
+	+	42	0
+	+	46	19
+	+	41	0
+	+	46	19
+	+	41	0
+	+	46	0
+	+	40	143
+	+	43	0
+	+	40	0
+	+	42	1
+	+	43	0
+	+	47	1
+	+	48	0
+	+	42	0
+	+	47	0
+	+	43	0
+
+> ~/.config/neofetch/config.conf
+	*	1601033237	0
+	"	696	50
+	^	696	51
+	.	696	50
+	+	681	0
+	+	682	17
+	+	759	0
+	+	821	4
+	+	669	0
+	+	514	18
+	+	4	0
+	+	4	9
+	+	4	0
+	+	48	0
+	+	696	55
+	+	697	0
+	+	696	50
+
+> ~/config.conf
+	*	1601029873	0
+	"	1	0
+
+> ~/.config/compton.conf
+	*	1601026806	0
+	"	1	0
+	^	6	3
+	.	6	2
+	+	5	2
+	+	6	3
+	+	5	3
+	+	6	2
+
+> /usr/local/bin/spacey.sh
+	*	1601026668	0
+	"	1	0
+
+> /etc/locale.conf
+	*	1601025689	0
+	"	9	20
+	^	9	21
+	.	9	20
+	+	9	20
+
+> /etc/locale.gen
+	*	1601025672	0
+	"	502	1
+
+> ~/rice/.vimrc
+	*	1601023761	0
+	"	94	0
+
+> ~/rice/.Xresources
+	*	1601023739	0
+	"	42	0
+
+> /usr/share/figlet/fonts/rebel.tlf
+	*	1601021864	0
+	"	353	1
+
+> ~/.config/i3/conq
+	*	1601021571	0
+	"	1	0
+
+> /usr/share/vim/vim82/doc/help.txt
+	*	1601018170	0
+	"	1	0
+
+> ~/ttf-dejavu-sans-mono-powerline-git/PKGBUILD
+	*	1600936706	0
+	"	9	1
+	^	9	2
+	.	9	1
+	+	9	1
+
+> ~/.XRe
+	*	1600936126	0
+	"	1	0
+
+> ~/.bash
+	*	1600935183	0
+	"	1	0
+
+> /etc/X11/xinit/xinitrc
+	*	1600934689	0
+	"	55	0
+	.	56	0
+	+	55	42
+	+	56	0
+
+> /etc/udev/rules.d/backlight.rules
+	*	1600932931	0
+	"	1	36
+	^	1	63
+	.	1	62
+	+	2	62
+	+	1	62
+
+> /etc/X11/xinit/.Xre
+	*	1600931386	0
+	"	1	0
+
+> ~/.xinitrc
+	*	1600930845	0
+	"	1	0
+	^	2	0
+	.	1	0
+	+	1	7
+	+	3	23
+	+	4	0
+	+	3	0
+	+	1	0
+
+> /etc/vconsole.conf
+	*	1600930588	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/rice/.bashrc
+	*	1600928885	0
+	"	62	7
+
+> /etc/host.conf
+	*	1596272669	0
+	"	4	0
+
+> /etc/hosts
+	*	1596272648	0
+	"	1	0

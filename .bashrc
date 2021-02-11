@@ -103,6 +103,8 @@ alias free='free -m'                      # show sizes in MB
 alias np='nano -w PKGBUILD'
 alias more=less
 alias nv='nvim'
+alias power='upower -d'
+alias cmatrix='unimatrix -n -s 96 -l o -c blue'
 
 xhost +local:root > /dev/null 2>&1
 
@@ -145,6 +147,8 @@ ex ()
     echo "'$1' is not a valid file"
   fi
 }
+
+set shellcmdflag=-ic
 
 BLUE="\e[94m"
 
