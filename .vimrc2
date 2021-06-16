@@ -30,10 +30,14 @@ set smartindent
 set numberwidth=4
 autocmd Filetype pascal setlocal tabstop=2
 autocmd Filetype pascal setlocal shiftwidth=0
+autocmd Filetype cs setlocal tabstop=4
+autocmd Filetype cs setlocal shiftwidth=0
 autocmd Filetype tex setlocal tabstop=4
 autocmd Filetype tex setlocal shiftwidth=0
 autocmd Filetype javascript setlocal tabstop=4
 autocmd Filetype javascript setlocal shiftwidth=0
+autocmd Filetype r setlocal tabstop=4
+autocmd Filetype r setlocal shiftwidth=0
 
 syntax enable
 colorscheme dracula

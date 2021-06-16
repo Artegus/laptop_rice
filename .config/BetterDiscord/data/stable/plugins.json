@@ -1,0 +1,16 @@
+{
+    "BDFDB": false,
+    "ZeresPluginLibrary": false,
+    "BadgesEverywhere": false,
+    "BetterRoleColors": false,
+    "BlurNSFW": false,
+    "EditUploads": false,
+    "EmojiUtilities": false,
+    "ExamplePlugin": false,
+    "ExamplePlugin2": false,
+    "HideDisabledEmojis": false,
+    "ImageToClipboard": false,
+    "SendButton": false,
+    "lazyload_patcher": false,
+    "transparency_patcher": false
+}

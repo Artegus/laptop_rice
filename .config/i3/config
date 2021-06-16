@@ -347,6 +347,17 @@ bindsym XF86MonBrightnessDown exec ~/.config/i3/brightness.sh - eDP-1
 #PROVISIONAL:
 bindsym Print exec scrot -s -e 'xclip -selection clipboard -t "image/png" < $f
 
+# yt mus
+bindsym $mod+y floating enable; resize set 500 500; move window to position 480 270
+# videos in 16:9
+bindsym $mod+c floating enable; resize set 960 540; sticky enable; move window to position 480 270
+
+
+
+
+#exec_always xrandr --output eDP-1 --mode 1920x1080 --pos 0x270 --scale 0.75x0.75 --output HDMI-1-0 --primary --mode 1920x1080 --pos 1440x0
+
+#exec_always xrandr --output HDMI-1-0 --mode 1920x1080 --pos 1920x0 --rotate normal --output eDP-1 --off --output HDMI-1-0 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output DP-1 --off
 
 #to control audio use pulseaudio and command start-pulseaudio-x11, dont know
 #if it executes at every reboot or i need to exectue it in this script.
